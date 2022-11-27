@@ -1,0 +1,59 @@
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe.config
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.pdb
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.csprojResolveAssemblyReference.cache
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Home.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Properties.Resources.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.csproj.GenerateResource.Cache
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.pdb
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DangNhap.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeKhachHangTV.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.frmDoiMatKhau.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.sp01.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.GioHang.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DangKi.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DatLich.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.MuaHang.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.ThanhToan.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.ThanhToanOnline.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XacNhan.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DatHang.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DonHang.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeNVCSKH.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XemLichHen.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Homesp01.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeNVBH.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XemDH.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeQuanLy.resources
+C:\Users\TGDD\Desktop\HK2\PTTKYC\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.QuanLyNhanVien.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\bin\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.pdb
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DangKi.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DatHang.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DatLich.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.DonHang.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.frmDoiMatKhau.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.GioHang.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Home.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeKhachHangTV.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeNVBH.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeNVCSKH.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.HomeQuanLy.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Homesp01.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.MuaHang.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.QuanLyNhanVien.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.sp01.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.ThanhToan.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.ThanhToanOnline.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XacNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XemDH.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng.XemLichHen.resources
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.exe
+C:\Users\Admin\OneDrive\Máy tính\Cuối Kỳ PTTK\DeMo\DeMo\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\Hệ Thống Quản Lý Dịch Vụ Thú Cưng\obj\Debug\Hệ Thống Quản Lý Dịch Vụ Thú Cưng.pdb

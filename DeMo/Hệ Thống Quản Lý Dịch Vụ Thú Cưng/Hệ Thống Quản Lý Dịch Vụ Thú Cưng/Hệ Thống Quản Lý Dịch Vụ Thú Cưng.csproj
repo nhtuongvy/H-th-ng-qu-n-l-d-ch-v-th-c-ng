@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8DF944BA-DCC7-4D52-9F57-558BC2F821B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hệ_Thống_Quản_Lý_Dịch_Vụ_Thú_Cưng</RootNamespace>
+    <AssemblyName>Hệ Thống Quản Lý Dịch Vụ Thú Cưng</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConstValue\ConstClass.cs" />
+    <Compile Include="DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKi.Designer.cs">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatHang.Designer.cs">
+      <DependentUpon>DatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatLich.Designer.cs">
+      <DependentUpon>DatLich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonHang.Designer.cs">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GioHang.Designer.cs">
+      <DependentUpon>GioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeKhachHangTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeKhachHangTV.Designer.cs">
+      <DependentUpon>HomeKhachHangTV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeNVBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeNVBH.Designer.cs">
+      <DependentUpon>HomeNVBH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeNVCSKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeNVCSKH.Designer.cs">
+      <DependentUpon>HomeNVCSKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeQuanLy.Designer.cs">
+      <DependentUpon>HomeQuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homesp01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homesp01.Designer.cs">
+      <DependentUpon>Homesp01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MuaHang.Designer.cs">
+      <DependentUpon>MuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyNhanVien.Designer.cs">
+      <DependentUpon>QuanLyNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sp01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sp01.Designer.cs">
+      <DependentUpon>sp01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhToan.Designer.cs">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhToanOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhToanOnline.Designer.cs">
+      <DependentUpon>ThanhToanOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XacNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XacNhan.Designer.cs">
+      <DependentUpon>XacNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemDH.Designer.cs">
+      <DependentUpon>XemDH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemLichHen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemLichHen.Designer.cs">
+      <DependentUpon>XemLichHen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangKi.resx">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatHang.resx">
+      <DependentUpon>DatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatLich.resx">
+      <DependentUpon>DatLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonHang.resx">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GioHang.resx">
+      <DependentUpon>GioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeKhachHangTV.resx">
+      <DependentUpon>HomeKhachHangTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeNVBH.resx">
+      <DependentUpon>HomeNVBH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeNVCSKH.resx">
+      <DependentUpon>HomeNVCSKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeQuanLy.resx">
+      <DependentUpon>HomeQuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homesp01.resx">
+      <DependentUpon>Homesp01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MuaHang.resx">
+      <DependentUpon>MuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuanLyNhanVien.resx">
+      <DependentUpon>QuanLyNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sp01.resx">
+      <DependentUpon>sp01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThanhToan.resx">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThanhToanOnline.resx">
+      <DependentUpon>ThanhToanOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XacNhan.resx">
+      <DependentUpon>XacNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemDH.resx">
+      <DependentUpon>XemDH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemLichHen.resx">
+      <DependentUpon>XemLichHen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
